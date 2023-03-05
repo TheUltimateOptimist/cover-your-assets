@@ -1,0 +1,4 @@
+(executable
+ (public_name cover_your_assets)
+ (name main)
+ (libraries cover_your_assets))
