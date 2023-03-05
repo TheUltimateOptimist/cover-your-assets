@@ -1,8 +1,0 @@
-lib: [
-  "_build/install/default/lib/cover_your_assets/META"
-  "_build/install/default/lib/cover_your_assets/dune-package"
-  "_build/install/default/lib/cover_your_assets/opam"
-]
-bin: [
-  "_build/install/default/bin/cover_your_assets"
-]
